@@ -1,6 +1,6 @@
 # KPMG Data Analytics Virtual Internship Project
 
-![image](https://github.com/prathmeshlonkar10/KPMG-AU-Data-Analytics-Virtual-Internship-Project/assets/66990159/43df85b7-c35d-4cd0-903e-c1e0aa271db6)
+![image](https://github.com/prathmeshlonkar10/KPMG-AU-Data-Analytics-Virtual-Internship-Project/assets/66990159/59a090d3-4bf5-4559-b965-2c350f5e7867)
 
 
 ## Highlight
